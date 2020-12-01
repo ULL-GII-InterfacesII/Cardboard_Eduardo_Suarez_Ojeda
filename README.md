@@ -18,7 +18,7 @@ También a la hora de crear el canvas con los botones le he añadido al propio c
 
 Así queda la jerarquía:
 
-![](imagienes/ii5.JPG)
+![](imagenes/ii5.JPG)
 
 ### Movimiento de la cámara:
 
