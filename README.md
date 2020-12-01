@@ -43,3 +43,7 @@ Para realizar este ejercicio he creado un canvas externo que guarda los tres bot
 Por último creo el elemento esfera y le añado la función que modifica su color al que se encuentre en ese momento seleccionado mediante su atributo de la clase GameController, le añado el componente Event Trigger y le asocio la función al evento Pointer Click.
 
 ![](imagenes/ii4.gif)
+
+### Ejemplo Final:
+
+![](imagenes/ii10.gif)
